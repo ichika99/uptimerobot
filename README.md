@@ -1,3 +1,6 @@
+# ichika的留言
+面板已进行少量修改，内嵌入个人主页中，样式做了一定改动
+
 # uptime-status
 
 一个基于 UptimeRobot API 的在线状态面板
@@ -16,6 +19,7 @@
    - `SiteName`: 要显示的网站名称
    - `ApiKeys`: 从 UptimeRobot 获取的 API Key，支持 Monitor-Specific API Keys 和 Read-Only API Key
    - `CountDays`: 要显示的日志天数，建议 60 或 90，显示效果比较好
+   - 'CountDaysMobile': 移动端限时的日志天数，建议调少一点
    - `ShowLink`: 是否显示站点链接
    - `Navi`: 导航栏的菜单列表
 - 将所有文件上传到网站空间
