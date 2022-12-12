@@ -7,8 +7,7 @@ window.Config = {
   // 支持 Monitor-Specific 和 Read-Only
   ApiKeys: [
     'm792924094-50ced8d30a7f866a7a3778c5',
-    'm792943834-fd3142b775bbfc39f8bad490',
-    'm793234086-7ecdcc2cfe5d295b7142e5fc'
+    'm792943834-fd3142b775bbfc39f8bad490'
   ],
 
   // 日志天数
